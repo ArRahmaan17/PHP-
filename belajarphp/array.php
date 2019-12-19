@@ -1,7 +1,9 @@
-<?php 
+<?php
+ 
+	// deklarasi variabel dan sekaligus pebuatan array
+	$buah = array("semangka","jamur","apel");
 
-$buah = array("semangka","jamur","apel");
-
-echo "$buah[1]";
+	// perintah menampilkan isi variabel yang di punya
+	echo "$buah[1]";
 
 ?>
