@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title></title>
+	<title>SELAMAT DATANG</title>
 </head>
 <body>
 	<form action="" method="POST">
