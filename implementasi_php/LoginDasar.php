@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Validasi </title>
+	<title></title>
 </head>
 <body>
 	<form action="" method="POST">
